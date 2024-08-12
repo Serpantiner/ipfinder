@@ -3,7 +3,8 @@ package main
 import (
 	"fmt"
 	"log"
-	"myipfinder/ipfinder"
+
+	"github.com/Serpantiner/ipfinder"
 )
 
 func main() {
